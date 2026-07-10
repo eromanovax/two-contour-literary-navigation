@@ -1,0 +1,25 @@
+cff-version: "1.2.0"
+message: "If you use this work, please cite it as below."
+title: "Двухконтурная модель навигации по литературным произведениям: профиль текста и социальный след (Two-Contour Model of Literary Navigation: Text Profile and Social Trace)"
+abstract: "A citable conceptual and architectural documentation package describing a two-contour model for literary navigation. It treats a work's text profile — language, style, composition, authorial voice, complexity, novelty relative to an explicit comparison corpus — and its social trace — ratings, reviews, sales, popularity, awards, reception signals — as separate classes of information kept distinct until the recommendation stage and related only within a concrete query, whether a reader's, an editor's, a researcher's, or an institution's. A recommendation is presented not as a judgment of artistic value but as a contextual matching of the request against explicitly separated types of grounds."
+type: dataset
+authors:
+  - family-names: Romanova
+    given-names: Elena
+version: "0.1"
+license: CC-BY-4.0
+keywords:
+  - literary navigation
+  - text profile
+  - social trace
+  - explainable recommendation
+  - recommender systems
+  - digital humanities
+  - computational literary studies
+  - cold-start problem
+  - human-centered AI
+  - профиль текста
+  - социальный след
+  - объяснимая рекомендация
+  - литературная навигация
+  - цифровые гуманитарные науки

@@ -9,6 +9,8 @@ authors:
 version: "0.1"
 date-released: "2026-07-10"
 license: CC-BY-4.0
+repository: "https://github.com/eromanovax/two-contour-literary-navigation"
+url: "https://github.com/eromanovax/two-contour-literary-navigation"
 keywords:
   - literary navigation
   - text profile
